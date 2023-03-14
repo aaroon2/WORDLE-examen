@@ -12,4 +12,4 @@ Para comenzar este proyecto lo primero que tienes que hacer es crear el model, e
 
 ![Codigo](C:\Users\Pc\Desktop\Wordle2.jpg)
 
-Tambien le he añadido plantilals de Boostrap para el Index que es la pagina principal.
+Tambien le he añadido plantillas de Boostrap para el Index que es la pagina principal.
